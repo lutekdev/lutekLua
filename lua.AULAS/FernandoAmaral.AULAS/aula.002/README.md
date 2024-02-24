@@ -28,3 +28,18 @@
 | ~=           | Verifica a igualdade, se diferentes retorna verdadeiro                                                            |
 | <, >, >=, <= | Compara o valor da esqueda com o da direita, e retorna verdadeiro se menor, maior, maior ou igual, menor ou igual |
 
+---
+
+## Extras
+- A Linguagem Lua é sensivel a maiusculas e minusculas.
+- A Linguagem Lua Possue Dois Tipos de Variaveis sendo elas (Global e Local).
+- A Linguagem Lua pode ler valores usando `io.read()`.
+- A Linguagem Lua também usa o `print` para mostrar valores na tela.
+- A Linguagem Lua usa o `type(variavel)` para ver o tipo da variavel.
+
+- Para usar comentarios na Linguagem Lua:
+  - `-- Esta linha é um comentario`
+- Para Comentarios de Blocos:
+  - `--[[ Esta linha é um comentario de blocos --]]`
+
+---
