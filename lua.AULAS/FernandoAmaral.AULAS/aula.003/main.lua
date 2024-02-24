@@ -13,6 +13,12 @@ local maisenergia = 4
 -- Concatenando Texto
 print("Nome do Jogador: " .. nome)
 
-print(type(nome))
-print(type(energia))
-print(type(passouFase))
+print("Nome: " .. type(nome))
+print("Energia: " .. type(energia))
+print("Passou de Fase: " .. type(passouFase))
+
+-- Operadores Relacionais
+print(energia >= 3)
+print(energia < 3)
+print(nome == nome)
+print((nome ~= energia) or (passouFase == true))
