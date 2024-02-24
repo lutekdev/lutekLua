@@ -5,9 +5,10 @@
 ---
 
 # 📚 Sumário Completo de Aulas - Fernando Amaral
-| ID  | Titulos                    | GUIA               | .LUA                                                                     |
-| --- | -------------------------- | ------------------ | ------------------------------------------------------------------------ |
-| 001 | Introdução a Linguagem Lua | [✘ Arquivo Guia]() | [✓ Arquivo LUA](lua.AULAS/FernandoAmaral.AULAS/aula.001/introducao.yaml) |
+| ID  | Titulos                    | GUIA                                                                | .LUA                                                                     |
+| --- | -------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 001 | Introdução a Linguagem Lua | [✘ Arquivo Guia]()                                                  | [✓ Arquivo LUA](lua.AULAS/FernandoAmaral.AULAS/aula.001/introducao.yaml) |
+| 002 | Variaveis e Tipos          | [✓ Arquivo Guia](lua.AULAS/FernandoAmaral.AULAS/aula.002/README.md) | [✘ Arquivo LUA]()                                                        |
 
 # ⭐ Sumário Completo de Exercícios - Fernando Amaral
 | ID  | Titulos | GUIA               | .LUA              |
