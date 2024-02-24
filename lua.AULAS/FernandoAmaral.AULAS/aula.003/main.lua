@@ -22,3 +22,13 @@ print(energia >= 3)
 print(energia < 3)
 print(nome == nome)
 print((nome ~= energia) or (passouFase == true))
+
+local jogadores = {
+    "Lutek",
+    "Joao"
+}
+
+table.remove(jogadores, 1)
+table.remove(jogadores, 1)
+
+print(table.concat(jogadores, ", "))
