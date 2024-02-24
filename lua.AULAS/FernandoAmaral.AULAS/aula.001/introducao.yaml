@@ -5,3 +5,6 @@ Introdução a Linguagem Lua:
   - É uma linguagem leve e incorporavel, muito utilizada em Jogos.
   - No Roblox é usada uma versão alternativa da linguagem Lua...
     - Chamada (Luau), que inclui elementos não presentes na linguagem Lua original.
+
+Copilador do Lua Para Windows:
+  - https://github.com/rjpcomputing/luaforwindows/releases
