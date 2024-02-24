@@ -9,7 +9,8 @@
 | --- | --------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | 001 | Introdução a Linguagem Lua  | [✘ Arquivo Guia]()                                                  | [✓ Arquivo LUA](lua.AULAS/FernandoAmaral.AULAS/aula.001/introducao.yaml) |
 | 002 | Variaveis e Tipos           | [✓ Arquivo Guia](lua.AULAS/FernandoAmaral.AULAS/aula.002/README.md) | [✘ Arquivo LUA]()                                                        |
-| 002 | Prática: Tipos de Váriaveis | [✘ Arquivo Guia]()                                                  | [✓ Arquivo LUA](lua.AULAS/FernandoAmaral.AULAS/aula.003/main.lua)        |
+| 003 | Prática: Tipos de Váriaveis | [✘ Arquivo Guia]()                                                  | [✓ Arquivo LUA](lua.AULAS/FernandoAmaral.AULAS/aula.003/main.lua)        |
+| 004 | Prática: Tables             | [✘ Arquivo Guia]()                                                  | [✓ Arquivo LUA](lua.AULAS/FernandoAmaral.AULAS/aula.004/main.lua)        |
 
 # ⭐ Sumário Completo de Exercícios - Fernando Amaral
 | ID  | Titulos | GUIA               | .LUA              |
